@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @katiegd
 - 👀 I’m interested in web development and learning new things
-- 🌱 I’m currently learning Javascript through The Odin Project
+- 🌱 I’m currently learning Node.js through The Odin Project
 - 📫 How to reach me: katieg.duryea@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I'm an avid rock climber 🧗‍♀️
